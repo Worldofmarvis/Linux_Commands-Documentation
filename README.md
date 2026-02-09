@@ -1,2 +1,2 @@
 # CTF-Documentation
-It is a documentation for all the activities I made in doing a Capturing the Flag. I used PicoCTF and Hack the box.
+It is documentation of all the commands I study throughout learning linux commands
