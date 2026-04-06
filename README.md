@@ -4,10 +4,8 @@ A curated, example-driven documentation of essential Linux commands I've mastere
 
 ## 📖 Table of Contents
 - [Why This Repo?](#why-this-repo)
-- [Commands Covered](#commands-covered)
 - [How to Use](#how-to-use)
 - [Contributing / Feedback](#contributing--feedback)
-- [License](#license)
 
 ## 🎯 Why This Repo?
 While studying for CTFs (Capture The Flag) and Linux privilege escalation, I realized most command references lack *real attack/defense context*. This repo fills that gap with:
