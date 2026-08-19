@@ -24,7 +24,7 @@ While studying for CTFs (Capture The Flag) and Linux privilege escalation, I rea
 | [SSH](The%20Secure%20Shell%20(SSH).md) | Remote access, tunneling | Forward a local port through a compromised jump host |
 | [wget](The%20Wget.md) | File transfer, mirroring | Download a reverse shell payload with `--no-check-certificate` |
 | [strings](The%20strings.md) | Binary analysis, forensics | Extract hidden flags from an ELF binary |
-| [ls](The%20ls.md) | File enumeration, recon | List hidden files and permissions to spot a misconfigured SUID binary |
+| [ls](The%20ThelsCommand.md) | File enumeration, recon | List hidden files and permissions to spot a misconfigured SUID binary |
 
 > *More coming soon...*
 
